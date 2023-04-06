@@ -1,0 +1,2 @@
+To use the app you need to enter Your name, your height and your weight, you can now see the your BMI Score and Result
+By clicking on save button, you can save your result in the Database and by clicking on clear, you can clear the data
